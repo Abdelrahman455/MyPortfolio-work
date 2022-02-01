@@ -1,0 +1,14 @@
+@media (max-width:600px) {
+  .navcomp{
+    display: none;
+  }
+  .activecon>p{
+    font-size: 2rem;
+  }
+  .workcon{
+    width:100%;
+  }
+  .work{
+    flex-wrap: wrap;
+  }
+}
